@@ -16,17 +16,6 @@ Whether you are a beginner entering online trading or an experienced trader look
 ```text
 WJQ669
 ```
-
----
-
-## 📋 Copy Promo Code
-
-```html
-<button onclick="navigator.clipboard.writeText('WJQ669')">
-  Copy Code
-</button>
-```
-
 ---
 
 ## 💰 What You Get
